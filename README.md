@@ -14,4 +14,4 @@
 
 * Open Cargo.toml to see the list of available programs
 
-![alt text](https://github.com/carlosvneto/wgpu-wgpu-marching-cubes/blob/main/images/ebook_cover.jpg?raw=true)
+![alt text](https://github.com/carlosvneto/wgpu-marching-cubes/blob/main/images/ebook_cover.jpg?raw=true)
